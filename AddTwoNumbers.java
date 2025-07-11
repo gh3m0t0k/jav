@@ -7,7 +7,7 @@ public class AddTwoNumbers {
         System.out.print("Enter 1st number: ");
         int num1 = scanner.nextInt();
 
-        System.out.print("Enter 2nd number: ");
+        System.out.print("Enter second number: ");
         int num2 = scanner.nextInt();
 
         int sum = num1 + num2;
