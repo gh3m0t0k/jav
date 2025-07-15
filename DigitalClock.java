@@ -8,7 +8,7 @@ public class DigitalClock extends JFrame {
     private JLabel timeLabel;
 
     public DigitalClock() {
-        setTitle("Digital Clock");
+        setTitle("Digital Clocks");
         setSize(300, 100);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
